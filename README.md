@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://nan-sso-gong.tistory.com/" target="_blank"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=DongD's%20GitHub&fontSize=45"/></a>
+<a href="https://nan-sso-gong.tistory.com/" target="_blank"><img src="https://capsule-render.vercel.app/api?type=waving&color=339933&height=250&section=header&text=DongD's%20GitHub&fontSize=45"/></a>
 
 <h3 align="center">Hi there 😃 
 <br>You can go to the blog by clicking on the profile above.</h3>
@@ -50,5 +50,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <div footer align="center">
-  <a href="#" target="_blank"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=footer&"/></a>
+  <a href="#" target="_blank"><img src="https://capsule-render.vercel.app/api?type=waving&color=339933&height=250&section=footer&"/></a>
 </div>
