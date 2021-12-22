@@ -35,11 +35,11 @@
 <!-- C -->
 <h3>My stack Level</h3>
 
-Node.JS - Scoreloader라는 악보공유 SNS 사이트 제작. passport module을 사용하여 SNS로그인(kakao, naver), tesseract 모듈 사용하여 이미지에서 자동 해시태그 추출기능, API서버 구축하여 게시글 API로 제공기능 구현.
+Node.JS - Scoreloader라는 악보공유 SNS 사이트 제작. passport module을 사용하여 SNS로그인(kakao, naver), tesseract 모듈 사용하여 이미지에서 자동 해시태그 추출기능, API서버 구축하여 게시글 API로 제공기능 구현. Bootstrap 5로 layout 구성, nunjucks를 사용하여 동적페이지 구성
 
 AWS - EC2 리전내 2개 이상의 인스턴스에 대해 ELB구성 하여 트래픽 분산경험, RDS(mariaDB)사용 경험. 
 
-Python - Network sniffer제작(Qt사용 , Http, ICMP, DNS). , 알바천국/알바몬 알바탐색기 제작.(Qt사용, beautiful Soup) 
+Python - Network sniffer제작(Qt사용 , Http, ICMP, DNS). , 알바천국/알바몬 알바탐색기 제작.(Qt사용, beautiful Soup) , 시흥시 버스 배차시간 포화도 분석 및 탄력배차시간 도출
 
 RaspberryPI / Arduino - 스마트 플러그 제작경험.(배전반 전력측정, 측정값에 따른 릴레이 제어, nodeMCU DB) , 비둘기 퇴치기 , 리모컨으로 제어하는 LED책상 등.. 제작경험
 
