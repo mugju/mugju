@@ -1,8 +1,8 @@
 <div align="center">
 <a href="https://nan-sso-gong.tistory.com/" target="_blank"><img src="https://capsule-render.vercel.app/api?type=waving&color=339933&height=250&section=header&text=DongD's%20GitHub&fontSize=45"/></a>
 
-<h3 align="center">Hi ~~~~ 😃 
-<br>good~~</h3>
+<h3 align="center">Hi there 😃 
+<br>You can go to the blog by clicking on the profile above.</h3>
 </div>
   <div align="center">
   
@@ -21,8 +21,8 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/NodeMCU-3776AB?style=flat&logo=tmux&logoColor=000000"/></a>
  </div>
 <br>
-<div align="right">
-  <h2>I'm </h2>
+<div align="center">
+  <h2>I'm interested in ...</h2>
   <!-- C -->
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/nginx-yellowgreen?style=flat"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Go language-critical?style=flat"/></a>
