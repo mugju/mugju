@@ -1,7 +1,11 @@
 <div align="center">
 <a href="https://nan-sso-gong.tistory.com/" target="_blank"><img src="https://capsule-render.vercel.app/api?type=waving&color=339933&height=250&section=header&text=DongD's%20GitHub&fontSize=45"/></a>
 
-<h3 align="center">Hi there 😃 
+<h3 align="center">Hi there 😃<br><br>
+I have been working as a research engineer and back-end developer since 2022.<br><br>
+
+I am currently working in clinical trials <br>and<br> I always hope to my development contributing to a better world and life.
+<br>
 <br>You can go to the blog by clicking on the profile above.</h3>
 </div>
   <div align="center">
@@ -12,13 +16,8 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=FF9900"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/SQL-FE5000?style=flat&logo=MySQL&logoColor=000000"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=yellow"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Pyqt5-121D33?style=flat-square&logo=Qt&logoColor=green"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=C10C0C"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-critical?style=flat&logo=Ubuntu&logoColor=000000"/></a>
   <br>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/arduino-00979D?style=flat&logo=Arduino&logoColor=000000"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/MQTT-green?style=flat&logo=Matternet&logoColor=000000"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/NodeMCU-3776AB?style=flat&logo=tmux&logoColor=000000"/></a>
  </div>
 <br>
 <div align="center">
@@ -32,8 +31,6 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Blogger-3776AB?style=flat-square&logo=Blogger&logoColor=000000"/></a>
 </div>
 
-<!-- C -->
-<h3>My stack Level java1</h3>
 
 
 
