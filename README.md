@@ -1,34 +1,29 @@
 <div align="center">
 <a href="https://nan-sso-gong.tistory.com/" target="_blank"><img src="https://capsule-render.vercel.app/api?type=waving&color=339933&height=250&section=header&text=DongD's%20GitHub&fontSize=45"/></a>
 
-<h3 align="center">Hi there 😃<br><br>
-I have been working as a research engineer and back-end developer since 2022.<br><br>
-
-I am currently working in clinical trials <br>and<br> I always hope to my development contributing to a better world and life.
-<br>
-<br>You can go to the blog by clicking on the profile above.</h3>
-</div>
-  <div align="center">
-  
-  <h2>My Tech Stack</h2>
-  <!-- node -->
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=000000"/></a> 
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=FF9900"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/SQL-FE5000?style=flat&logo=MySQL&logoColor=000000"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=yellow"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-critical?style=flat&logo=Ubuntu&logoColor=000000"/></a>
-  <br>
- </div>
-<br>
 <div align="center">
-  <h2>I'm interested in ...</h2>
-  <!-- C -->
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/nginx-yellowgreen?style=flat"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Go language-critical?style=flat"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-informational?style=flat"/></a>
+  Hi there 😃 <br>I have been working as a research engineer and back-end developer since March 2022.<br> 위의 배너를 클릭하시면 제 블로그로 이동하실 수 있습니다<br><br>
+</div>
 
-  <!-- C -->
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Blogger-3776AB?style=flat-square&logo=Blogger&logoColor=000000"/></a>
+<div align="left">
+  <h3>I'm interested in ...</h3>
+  <hr>
+  <div>깨지고 부숴지는 개발을 즐거워 합니다. 부숴질 수 있다면 더 발전 할 수 있으니까요. <br>누군가와 도메인이나 기술 얘기를 하는 것은 언제나 즐겁습니다. <br> 최근에는 bioGPT 와 Redis를 공부하고 있는데요. <br> 이곳에 방문하시는 여러분과 coffee chat할 수 있는 기회가 있었으면 좋겠네요! 옆의 제 이메일로 연락주세요<div>
+  
+</div>
+
+</div>
+<div align="left">
+  <h3>My Tech Skill</h3>
+  <hr>
+  > Java(Server.springBoot,jpa..) <br>
+  > Python(Data Processing.diffcult on Java) <br>
+  on Cloud Environment(AWS, NCP)
+<!--   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat&logo=springboot&logoColor=000000"/></a> 
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Cloud-232F3E?style=flat&logo=Amazon AWS&logoColor=FF9900"/></a>
+<!--   <a href="#" target="_blank"><img src="https://img.shields.io/badge/SQL-FE5000?style=flat&logo=MySQL&logoColor=000000"/></a> -->
+<!--   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=yellow"/></a> --> 
+<!--   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-critical?style=flat&logo=Ubuntu&logoColor=000000"/></a> -->
 </div>
 
 
