@@ -16,9 +16,11 @@
 <div align="left">
   <h3>My Tech Skill</h3>
   <hr>
-  > Java(Server.springBoot,jpa..) <br>
+  > Java(Spring boot, security, thymeleaf ..) <br>
+  > Keycloak <br>
   > Python(Data Processing.diffcult on Java) <br>
   on Cloud Environment(AWS, NCP)
+  and interested in Redis and Kafka
 <!--   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat&logo=springboot&logoColor=000000"/></a> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Cloud-232F3E?style=flat&logo=Amazon AWS&logoColor=FF9900"/></a>
 <!--   <a href="#" target="_blank"><img src="https://img.shields.io/badge/SQL-FE5000?style=flat&logo=MySQL&logoColor=000000"/></a> -->
